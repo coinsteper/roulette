@@ -6,9 +6,9 @@ from functools import partial
 import screeninfo
 import time
 
-img_go_btn = r'C:\python\image_processing\money_tree\go_btn.png'
-img_x_btn = r'C:\python\image_processing\money_tree\x_btn.png'
-img_x2_btn = r'C:\python\image_processing\money_tree\x2_btn.png'
+img_go_btn = r'C:\python\image_processing\roulette\go_btn.png'
+img_x_btn = r'C:\python\image_processing\roulette\x_btn.png'
+img_x2_btn = r'C:\python\image_processing\roulette\x2_btn.png'
 
 def find_and_clik(img):
     Flag = False
